@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Josefin+Sans:wght@100&display=swap');
+
+
+body{
+    background-color: rgb(221, 219, 219);ˇ
+}
+
+.heading { text-align: center;
+}
+.maintitle { 
+    color: rgb(21, 21, 23);
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+    text-align: center;
+}
+.secondtitle{
+    color: rgb(21, 21, 23);
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+    text-align: center
+}
+.main1
+{ 
+    solid rgb(30, 33, 30); 
+    font-family: cursive;
+    font-size: 20px;
+    width: 30%; 
+    margin: 0 auto;
+}
+
+.main2
+{ 
+    solid rgb(30, 33, 30); 
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+.main3
+{ 
+    solid rgb(30, 33, 30); 
+    font-family: cursive;
+    text-align: center;
+    font-size: 16px;
+    width: 15%; 
+    margin: 0 auto;
+}
+
+.main4
+{ 
+    scolor: rgb(21, 21, 23);
+    font-family: 'Caveat', cursive;
+    font-size: 1rem;
+    text-align: center
+}
+
+
+.copyright {
+    text-align: center;
+    color: rgb(10, 6, 1);
+    font-size: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
